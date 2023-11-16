@@ -1,0 +1,8 @@
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenrapido\ordenrapido\bin\Debug\ordenrapido.exe.config
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenrapido\ordenrapido\bin\Debug\ordenrapido.exe
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenrapido\ordenrapido\bin\Debug\ordenrapido.pdb
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenrapido\ordenrapido\obj\Debug\ordenrapido.csproj.AssemblyReference.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenrapido\ordenrapido\obj\Debug\ordenrapido.csproj.SuggestedBindingRedirects.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenrapido\ordenrapido\obj\Debug\ordenrapido.csproj.CoreCompileInputs.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenrapido\ordenrapido\obj\Debug\ordenrapido.exe
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenrapido\ordenrapido\obj\Debug\ordenrapido.pdb

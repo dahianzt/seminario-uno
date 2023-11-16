@@ -1,0 +1,8 @@
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenseleccion\ordenseleccion\bin\Debug\ordenseleccion.exe.config
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenseleccion\ordenseleccion\bin\Debug\ordenseleccion.exe
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenseleccion\ordenseleccion\bin\Debug\ordenseleccion.pdb
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenseleccion\ordenseleccion\obj\Debug\ordenseleccion.csproj.AssemblyReference.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenseleccion\ordenseleccion\obj\Debug\ordenseleccion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenseleccion\ordenseleccion\obj\Debug\ordenseleccion.csproj.CoreCompileInputs.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenseleccion\ordenseleccion\obj\Debug\ordenseleccion.exe
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\ordenseleccion\ordenseleccion\obj\Debug\ordenseleccion.pdb

@@ -1,0 +1,8 @@
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\insercionsort\insercionsort\bin\Debug\insercionsort.exe.config
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\insercionsort\insercionsort\bin\Debug\insercionsort.exe
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\insercionsort\insercionsort\bin\Debug\insercionsort.pdb
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\insercionsort\insercionsort\obj\Debug\insercionsort.csproj.AssemblyReference.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\insercionsort\insercionsort\obj\Debug\insercionsort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\insercionsort\insercionsort\obj\Debug\insercionsort.csproj.CoreCompileInputs.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\insercionsort\insercionsort\obj\Debug\insercionsort.exe
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\insercionsort\insercionsort\obj\Debug\insercionsort.pdb

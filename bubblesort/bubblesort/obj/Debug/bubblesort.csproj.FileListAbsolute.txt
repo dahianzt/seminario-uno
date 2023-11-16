@@ -1,0 +1,16 @@
+C:\Users\Izzy\OneDrive\programming\bubblesort\bubblesort\bin\Debug\bubblesort.exe.config
+C:\Users\Izzy\OneDrive\programming\bubblesort\bubblesort\bin\Debug\bubblesort.exe
+C:\Users\Izzy\OneDrive\programming\bubblesort\bubblesort\bin\Debug\bubblesort.pdb
+C:\Users\Izzy\OneDrive\programming\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.AssemblyReference.cache
+C:\Users\Izzy\OneDrive\programming\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Izzy\OneDrive\programming\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\Izzy\OneDrive\programming\bubblesort\bubblesort\obj\Debug\bubblesort.exe
+C:\Users\Izzy\OneDrive\programming\bubblesort\bubblesort\obj\Debug\bubblesort.pdb
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\bubblesort\bubblesort\bin\Debug\bubblesort.exe.config
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\bubblesort\bubblesort\bin\Debug\bubblesort.exe
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\bubblesort\bubblesort\bin\Debug\bubblesort.pdb
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.AssemblyReference.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\bubblesort\bubblesort\obj\Debug\bubblesort.exe
+C:\Users\Izzy\OneDrive\college\algoritmos\seminario_1\bubblesort\bubblesort\obj\Debug\bubblesort.pdb
